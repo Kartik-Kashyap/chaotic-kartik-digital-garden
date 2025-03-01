@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/stories/short-fiction/burned-against-the-wind/","noteIcon":"","created":"2025-03-01T20:53:01.867+05:30","updated":"2025-03-01T20:54:19.247+05:30"}
+{"dg-publish":true,"permalink":"/projects/stories/short-fiction/burned-against-the-wind/","created":"2025-03-01T20:53:01.867+05:30","updated":"2025-03-01T22:14:57.192+05:30"}
 ---
 
 ## STORY
@@ -44,7 +44,7 @@ And in their minds, through the static of fear and adrenaline, a song blared—a
 
 David Bowie’s *Heroes*.
 
-**"I, I will be king
+*"I, I will be king
 And you, you will be queen
 Though nothing will drive them away
 We can be Heroes, just for one day.
@@ -58,7 +58,7 @@ Oh we can beat them, for ever and ever
 Then we could be Heroes, just for one day
 We're nothing, and nothing will help us 
 Maybe we're lying, then you better not stay
-But we could be safer, just for one day"**
+But we could be safer, just for one day"*
 
 The headlights cut through the darkness, but the road ahead was an abyss. A shot rang out. Tires screeched. The world flipped.
 
