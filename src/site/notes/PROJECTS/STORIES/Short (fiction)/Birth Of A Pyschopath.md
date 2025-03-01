@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/stories/short-fiction/birth-of-a-pyschopath/","noteIcon":"","created":"2025-03-01T20:42:38.200+05:30","updated":"2025-03-01T20:44:28.133+05:30"}
+{"dg-publish":true,"permalink":"/projects/stories/short-fiction/birth-of-a-pyschopath/","noteIcon":"","created":"2025-03-01T20:42:38.200+05:30","updated":"2025-03-01T20:59:45.081+05:30"}
 ---
 
 ## STORY
@@ -28,3 +28,15 @@ Psychiatrists would later say he lacked empathy, and that he was a textbook psyc
 The system had failed him long before he became a headline. Anand was a product of everything wrong around him—poverty, violence, neglect, oppression, apathy and nihilism. The world had shown him its ugliness, and he had become a mirror for it. 
 
 By the time they locked him away for the crime—the one that took a life—it was too late. He no longer saw the world the way others did. He never would. The boy was gone. All that was left was the monster it had created.
+
+
+## ANALYSIS
+His Name Is Anand and There Is No Happiness in his Life .
+Irony
+
+
+
+##### TAGS & LINKS
+[[old-vault-for-ref/story writing/AM I EVIL\|AM I EVIL]]
+
+#evil
