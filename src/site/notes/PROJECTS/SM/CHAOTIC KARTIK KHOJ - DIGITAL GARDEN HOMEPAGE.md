@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/sm/chaotic-kartik-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2025-03-02T19:34:29.419+05:30"}
+{"dg-publish":true,"permalink":"/projects/sm/chaotic-kartik-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2025-03-02T19:36:04.781+05:30"}
 ---
 
 # WELCOME TO MY DIGITAL GARDEN 
@@ -9,6 +9,11 @@
 
 > [!info]
 > This garden is currently being developed. 
+
+
+> [!faq]- Are callouts foldable?
+> Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
+
 
 ## Currently Streamlining These Chaos:
 
