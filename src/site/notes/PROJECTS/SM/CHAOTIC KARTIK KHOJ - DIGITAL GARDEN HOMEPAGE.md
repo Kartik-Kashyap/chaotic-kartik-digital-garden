@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/projects/sm/chaotic-kartik-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2025-03-01T21:06:43.364+05:30"}
+{"dg-publish":true,"permalink":"/projects/sm/chaotic-kartik-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2025-03-02T19:34:29.419+05:30"}
 ---
 
 # WELCOME TO MY DIGITAL GARDEN 
 
 - [ ] reddit bnao apna - uspe bhi update krte rho isko leke - uske wiki me daal do isko
 - [ ] take help from others - to build a chaos website = in which other people can also contribute - or just reddit, discord se hi kaam chala lo - bas searchable hona chahiye enough - like pura collection ho jaye weird things ka
+
+> [!info]
+> This garden is currently being developed. 
 
 ## Currently Streamlining These Chaos:
 
