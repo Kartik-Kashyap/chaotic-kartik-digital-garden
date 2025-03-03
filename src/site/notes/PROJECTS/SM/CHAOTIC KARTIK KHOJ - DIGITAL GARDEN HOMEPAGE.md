@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/sm/chaotic-kartik-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2025-03-02T19:36:04.781+05:30"}
+{"dg-publish":true,"permalink":"/projects/sm/chaotic-kartik-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2025-03-03T22:34:41.515+05:30"}
 ---
 
 # WELCOME TO MY DIGITAL GARDEN 
@@ -24,15 +24,15 @@
 - release
 
 
-# Executed / Archived:
+## Executed / Archived:
 will be updated with new info if i find something new
 
 
-# Future Plans:
+## Future Plans:
 
 
-# Finished/Published:
+## Finished/Published:
 
 
-# Ideas that didn't make it to finals:
+##  Ideas that didn't make it to finals:
 
