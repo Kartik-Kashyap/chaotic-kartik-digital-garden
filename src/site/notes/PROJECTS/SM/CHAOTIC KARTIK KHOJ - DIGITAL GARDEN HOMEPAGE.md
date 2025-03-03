@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/projects/sm/chaotic-kartik-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2025-03-03T22:34:41.515+05:30"}
+{"dg-publish":true,"permalink":"/projects/sm/chaotic-kartik-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2025-03-03T22:55:19.053+05:30"}
 ---
 
 # WELCOME TO MY DIGITAL GARDEN 
 
+- [x] completed task ✅ 2025-03-03
+- [ ] homepage design better - take help of chatgpt
+- [ ] chaos visualized name change? or live upto the name
 - [ ] reddit bnao apna - uspe bhi update krte rho isko leke - uske wiki me daal do isko
 - [ ] take help from others - to build a chaos website = in which other people can also contribute - or just reddit, discord se hi kaam chala lo - bas searchable hona chahiye enough - like pura collection ho jaye weird things ka
 
