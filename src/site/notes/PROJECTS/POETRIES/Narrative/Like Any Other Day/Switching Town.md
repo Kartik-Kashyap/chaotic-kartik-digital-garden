@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/projects/poetries/narrative/like-any-other-day/switching-town/","created":"2025-03-04T20:56:23.409+05:30","updated":"2025-03-04T21:15:34.303+05:30"}
+---
+
+Our feelings written out across many pages,
+But somehow can’t seem to fill this sole blank line.
+Struggled some more, then marked the place with a flower bookmark, 
+to tumble along with you on our respective bicycles, hoping to get enlightened without delay.
+
+The dots I'm gallantly try'na connect, reaches no-productive-where, since ages.
+You though seem apathetic as you're soon switching towns but it's fine.
+This same blue sky is, for me, excruciating to drive under as now it disguises itself as gloomy & dark.
+You looked at me with your weepy eyes and that’s when you unconsciously thrusted a bundle of sunlight my way.
+
+
+*next:* [[PROJECTS/POETRIES/Narrative/Like Any Other Day/Ticket Gate\|Ticket Gate]]
