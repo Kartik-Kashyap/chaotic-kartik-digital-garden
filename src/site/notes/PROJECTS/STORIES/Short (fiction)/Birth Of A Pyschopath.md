@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/stories/short-fiction/birth-of-a-pyschopath/","noteIcon":"","created":"2025-03-01T20:42:38.200+05:30","updated":"2025-03-01T20:59:45.081+05:30"}
+{"dg-publish":true,"permalink":"/projects/stories/short-fiction/birth-of-a-pyschopath/","created":"2025-03-01T20:42:38.200+05:30","updated":"2025-03-01T20:59:45.081+05:30"}
 ---
 
 ## STORY

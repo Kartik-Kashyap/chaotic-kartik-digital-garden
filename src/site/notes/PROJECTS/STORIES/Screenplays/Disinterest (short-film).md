@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/projects/stories/screenplays/disinterest-short-film/","created":"2025-03-01T21:09:34.531+05:30","updated":"2025-03-01T21:16:47.150+05:30"}
+{"dg-publish":true,"permalink":"/projects/stories/screenplays/disinterest-short-film/","created":"2025-03-01T21:09:34.531+05:30","updated":"2025-03-01T21:18:16.329+05:30"}
 ---
 
 Title: DISINTEREST
 Credit: A 1-Minute Short-Film
 Author: Written by Kartik Kashyap
 Draft date: 2/2/2024
+
+(the screenplay is in fountain format)
 
 ___
 

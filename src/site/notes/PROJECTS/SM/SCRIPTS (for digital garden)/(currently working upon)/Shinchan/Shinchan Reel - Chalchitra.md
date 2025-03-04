@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/sm/scripts-for-digital-garden/currently-working-upon/shinchan/shinchan-reel-chalchitra/","noteIcon":"","created":"2025-02-12T00:58:34.854+05:30","updated":"2025-02-26T17:40:12.191+05:30"}
+{"dg-publish":true,"permalink":"/projects/sm/scripts-for-digital-garden/currently-working-upon/shinchan/shinchan-reel-chalchitra/","created":"2025-02-12T00:58:34.854+05:30","updated":"2025-02-26T17:40:12.191+05:30"}
 ---
 
 # to-do
