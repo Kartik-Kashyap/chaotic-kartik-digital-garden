@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/poetries/philosophical-thematic/metamorphosis/","created":"2025-03-05T19:06:48.442+05:30","updated":"2025-03-05T19:15:43.408+05:30"}
+{"dg-publish":true,"permalink":"/projects/poetries/philosophical-thematic/metamorphosis/","created":"2025-03-05T19:06:48.442+05:30","updated":"2025-03-05T19:24:48.365+05:30"}
 ---
 
 Did devoted service, never lifted the head,
@@ -70,4 +70,4 @@ Carrying poised, flexible yet devotional intentions.
 ___
 
 **Inspiration:**
-- 
+- _(Inspired by Ramayana, Prakhar ke Pravachan & Marcus Aurelius)_
