@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/stories/short-fiction/burned-against-the-wind/","created":"2025-03-01T20:53:01.867+05:30","updated":"2025-03-01T22:14:57.192+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/stories/short-fiction/burned-against-the-wind/","created":"2025-03-01T20:53:01.867+05:30","updated":"2025-03-07T22:58:01.906+05:30"}
 ---
+
+*Listen to this while reading:*
+<iframe src="https://www.youtube.com/watch?v=lXgkuM2NhYI" style="width:100%; height:500px;"></iframe>
 
 ## STORY
 
@@ -71,3 +74,4 @@ But their love did not die, as they say, "Where there is love there is life."
 The news spread like wildfire. Their names became a battle cry. Protests erupted. The youth raged. Their story was inked into banners, chanted in streets, whispered in defiance. Their love became legend, proof that even in death, some flames never go out.
 
 They did not get to live. But they became immortal. Expanding their second death to aeons. Because love, when fearless, is never forgotten. 
+
