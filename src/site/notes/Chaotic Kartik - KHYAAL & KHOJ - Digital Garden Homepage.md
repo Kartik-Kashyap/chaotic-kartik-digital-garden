@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/chaotic-kartik-khyaal-and-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2025-03-11T01:38:38.226+05:30"}
+{"dg-publish":true,"permalink":"/chaotic-kartik-khyaal-and-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2025-03-11T01:39:42.947+05:30"}
 ---
 
-# 🌿 **WELCOME TO THE CHAOTIC GARDEN** 🌪️ 
+# **WELCOME TO THE CHAOTIC GARDEN** 🌪️ 
 
 
 > [!attention] 
