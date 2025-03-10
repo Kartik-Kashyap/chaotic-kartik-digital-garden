@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/stories/short-fiction/burned-against-the-wind/","created":"2025-03-01T20:53:01.867+05:30","updated":"2025-03-07T23:27:02.253+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/stories/short-fiction/burned-against-the-wind/","created":"2025-03-01T20:53:01.867+05:30","updated":"2025-03-11T01:03:31.389+05:30"}
 ---
 
-*Listen to this while reading:*
-![](https://www.youtube.com/watch?v=lXgkuM2NhYI)
+*⚠️ Listen to this while reading:*
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7Jh1bpe76CNTCgdgAdBw4Z?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## STORY
 
