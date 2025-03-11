@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/emo-lyric/pensive-night/","created":"2025-03-05T19:14:53.458+05:30","updated":"2025-03-05T19:16:28.823+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/emo-lyric/pensive-night/","created":"2025-03-05T19:14:53.458+05:30","updated":"2025-03-11T15:48:00.693+05:30"}
 ---
 
 Open field & sky,
@@ -45,3 +45,9 @@ How much will I miss out?
 Will I die unlamented?
 
 Haha, it's a night of existential questioning, I guess.
+
+___
+
+*related:*
+- [[PROJECTS-CREATIONS/POETRIES/Emo-Lyric/GROWING UP\|GROWING UP]]
+- [[PROJECTS-CREATIONS/POETRIES/Emo-Lyric/AUTUMN 🍂\|AUTUMN 🍂]]
