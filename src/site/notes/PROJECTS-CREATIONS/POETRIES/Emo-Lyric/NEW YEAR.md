@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/emo-lyric/new-year/","created":"2025-03-05T18:58:05.925+05:30","updated":"2025-03-05T19:15:56.593+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/emo-lyric/new-year/","created":"2025-03-05T18:58:05.925+05:30","updated":"2025-03-11T15:41:14.282+05:30"}
 ---
 
 Midnight, tired of staring at the ceiling fan.
@@ -61,3 +61,13 @@ Of savouring life, I have my share.
 Lack of sunlight, path's hazy
 
 Still driving with a smile, am I crazy?
+
+___
+
+*date written 
+(it was my last poetry, so all else were penned even before this date):* 
+**01/01/2023**
+
+*similar:*
+- [[PROJECTS-CREATIONS/POETRIES/Emo-Lyric/PENSIVE NIGHT 🌃\|PENSIVE NIGHT 🌃]]
+- [[PROJECTS-CREATIONS/POETRIES/Emo-Lyric/AUTUMN 🍂\|AUTUMN 🍂]]
