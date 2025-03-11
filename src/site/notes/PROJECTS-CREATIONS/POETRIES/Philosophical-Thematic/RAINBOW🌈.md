@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/philosophical-thematic/rainbow/","created":"2025-03-05T19:10:59.754+05:30","updated":"2025-03-11T10:29:31.350+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/philosophical-thematic/rainbow/","created":"2025-03-05T19:10:59.754+05:30","updated":"2025-03-11T20:24:37.324+05:30"}
 ---
 
 Overcoming the night,
@@ -29,3 +29,9 @@ If you fear muddy footstep,
 If you flinch or you cast your eyes down to toe,
 in a supreme moment,
 you might miss the rainbow.
+
+
+*related:*
+- [[PROJECTS-CREATIONS/POETRIES/Philosophical-Thematic/METAMORPHOSIS\|METAMORPHOSIS]]
+- [[PROJECTS-CREATIONS/POETRIES/Philosophical-Thematic/PAIN\|PAIN]]
+- [[PROJECTS-CREATIONS/POETRIES/Philosophical-Thematic/STUPID LIFE\|STUPID LIFE]]
