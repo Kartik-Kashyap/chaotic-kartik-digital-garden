@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/philosophical-thematic/pain/","created":"2025-03-05T19:23:25.343+05:30","updated":"2025-03-11T10:28:51.554+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/philosophical-thematic/pain/","created":"2025-03-05T19:23:25.343+05:30","updated":"2025-03-11T10:37:18.851+05:30"}
 ---
 
 My best friend?
@@ -16,3 +16,6 @@ I learned to befriend with sorrow & derision,
 When I had nothing and no one
 But pain,
 my best friend.
+
+
+*related:* [[PROJECTS-CREATIONS/POETRIES/Philosophical-Thematic/METAMORPHOSIS\|METAMORPHOSIS]]
