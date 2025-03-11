@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/philosophical-thematic/stupid-life/","created":"2025-03-05T19:14:07.977+05:30","updated":"2025-03-05T19:15:36.199+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/philosophical-thematic/stupid-life/","created":"2025-03-05T19:14:07.977+05:30","updated":"2025-03-11T10:33:35.005+05:30"}
 ---
+
+*inspired by:* 
+<iframe width="720" height="480" src="https://www.youtube.com/embed/OXp1CQA8YDw" title="Embrace The Ridiculousness Of Life And Enjoy It To The Fullest!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Lot of uncertainty going on.
 
