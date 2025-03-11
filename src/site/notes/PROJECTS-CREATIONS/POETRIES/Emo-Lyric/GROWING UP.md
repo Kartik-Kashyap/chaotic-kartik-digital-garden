@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/emo-lyric/growing-up/","created":"2025-03-05T19:10:31.915+05:30","updated":"2025-03-05T19:16:06.436+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/emo-lyric/growing-up/","created":"2025-03-05T19:10:31.915+05:30","updated":"2025-03-11T15:46:19.059+05:30"}
 ---
 
 Reminiscing the past,
@@ -31,3 +31,10 @@ only "changes" makes it worthwhile.
 "Forever"—a loop of lies,
 
 it's true, as time flies.
+
+
+___
+
+*related:*
+- [[PROJECTS-CREATIONS/POETRIES/Emo-Lyric/AUTUMN 🍂\|AUTUMN 🍂]]
+- [[PROJECTS-CREATIONS/POETRIES/Emo-Lyric/NEW YEAR\|NEW YEAR]]
