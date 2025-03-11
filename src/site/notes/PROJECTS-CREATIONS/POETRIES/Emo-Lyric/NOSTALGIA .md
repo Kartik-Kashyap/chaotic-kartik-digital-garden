@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/emo-lyric/nostalgia/","created":"2025-03-05T19:11:33.139+05:30","updated":"2025-03-11T15:31:55.657+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/emo-lyric/nostalgia/","created":"2025-03-05T19:11:33.139+05:30","updated":"2025-03-11T15:48:05.413+05:30"}
 ---
 
 Nostalgia - a nugatory feeling,
@@ -36,3 +36,4 @@ ___
 - [[PROJECTS-CREATIONS/POETRIES/Emo-Lyric/GROWING UP\|GROWING UP]]
 - [[PROJECTS-CREATIONS/POETRIES/Emo-Lyric/AUTUMN 🍂\|AUTUMN 🍂]]
 - [[PROJECTS-CREATIONS/POETRIES/Emo-Lyric/NEW YEAR\|NEW YEAR]]
+- [[PROJECTS-CREATIONS/POETRIES/Emo-Lyric/PENSIVE NIGHT 🌃\|PENSIVE NIGHT 🌃]]
