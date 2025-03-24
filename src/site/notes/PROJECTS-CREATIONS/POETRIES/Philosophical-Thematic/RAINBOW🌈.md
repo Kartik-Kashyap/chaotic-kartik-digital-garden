@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/philosophical-thematic/rainbow/","created":"2025-03-05T19:10:59.754+05:30","updated":"2025-03-11T20:24:37.324+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/philosophical-thematic/rainbow/","created":"2025-03-05T19:10:59.754+05:30","updated":"2025-03-24T16:24:09.626+05:30"}
 ---
 
 Overcoming the night,
@@ -31,7 +31,13 @@ in a supreme moment,
 you might miss the rainbow.
 
 
+
 *related:*
 - [[PROJECTS-CREATIONS/POETRIES/Philosophical-Thematic/METAMORPHOSIS\|METAMORPHOSIS]]
 - [[PROJECTS-CREATIONS/POETRIES/Philosophical-Thematic/PAIN\|PAIN]]
 - [[PROJECTS-CREATIONS/POETRIES/Philosophical-Thematic/STUPID LIFE\|STUPID LIFE]]
+
+
+*music ref:*
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/185espHo2bItrvYrUUkDhe?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
