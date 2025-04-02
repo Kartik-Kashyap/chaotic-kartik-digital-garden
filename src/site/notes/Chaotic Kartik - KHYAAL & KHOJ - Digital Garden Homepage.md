@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chaotic-kartik-khyaal-and-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2025-03-11T01:39:42.947+05:30"}
+{"dg-publish":true,"permalink":"/chaotic-kartik-khyaal-and-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2025-04-02T23:18:28.917+05:30"}
 ---
 
 # **WELCOME TO THE CHAOTIC GARDEN** 🌪️ 
@@ -23,56 +23,7 @@
    
 > _“So many questions, so little time.”_
 
-   
-> [!info]- Still confused? Start here:
-> - [[core\|core]] *(my favorite entry point to ocean of threads)*
-> - [[1. Switching Town \| My first narrative poetry series that I wrote for my friend leaving the town]]
-> - [[Burned Against The Wind \| My debut romance short story]]
-
 
 ___
 
-## 🌊 **Currently Navigating these Chaos:**
-
-_(Things in the making, thoughts forming, and ideas marinating)_ 
-
-🌀 **Projects Brewing** → [Link to active projects]  
-📝 **Raw Scripts & Concepts** → [Link]  
-🎭 **Stories Taking Shape** → [Link]  
-🧠 **Philosophical Rabbit Holes** → [Link]
-
----
-
-## 📜 **Executed & Archived (But Not Forgotten)**
-
-(*will be updated with new info with time if i stumble across something worth adding*)
-
-🗂 **Past Scripts** → [Link]  
-📚 **Finished Essays & Findings** → [Link]  
-🎬 **Videos That Became Reality** → [Link]
-
----
-
-## 🚀 **Future Plans & Experiments**
-
-_(What’s cooking but not quite ready to serve)_  
-🔮 **Upcoming Series Ideas** → [Link]  
-💭 **Concepts That Need More Chaos** → [Link]  
-🛠️ **Experimental Formats** → [Link]
-
----
-
-## 🏴‍☠️ **Ideas That Sank Before Sailing**
-
-_(Not all ideas survive the storm. Here lie the fallen ones.)_  
-⚰️ **Scrapped Scripts & Concepts** → [Link]  
-🧐 **What Went Wrong? (Postmortem Notes)** → [Link]
-
----
-
-## 🔥 **How to Explore?**
-
-🕸 **Follow the Links, Get Lost, Find Something New.**  
-🔗 **Every note connects to something—click around and see where the chaos takes you.**  
-💡 **Got thoughts? Share them [here](www.), challenge them, or just sit with them.**
 
