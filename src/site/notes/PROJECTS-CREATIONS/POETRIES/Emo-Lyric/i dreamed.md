@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/emo-lyric/i-dreamed/","created":"2025-05-31T19:50:02.136+05:30","updated":"2025-05-31T20:09:38.611+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/emo-lyric/i-dreamed/","created":"2025-05-31T19:50:02.136+05:30","updated":"2025-05-31T20:28:59.347+05:30"}
 ---
 
 i have dreamed and i remember
@@ -52,7 +52,19 @@ but it stayed long after i withdrew
 *triggered by:* [this reel](https://www.instagram.com/reel/DKSrRWEsTnw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 *connected:* 
+- [[PROJECTS-CREATIONS/POETRIES/Emo-Lyric/GROWING UP\|GROWING UP]]
 - [[PROJECTS-CREATIONS/POETRIES/Narrative/Like Any Other Day/1. Switching Town\|1. Switching Town]]
 - [[PROJECTS-CREATIONS/POETRIES/Narrative/Like Any Other Day/2. Ticket Gate\|2. Ticket Gate]]
 - [[PROJECTS-CREATIONS/POETRIES/Narrative/Like Any Other Day/3. Sunshine In Winter\|3. Sunshine In Winter]]
 - [[PROJECTS-CREATIONS/POETRIES/Narrative/Like Any Other Day/4. For Granted\|4. For Granted]]
+
+---
+
+### interpretation 
+
+>> I can't help but be influenced by the title of the piece. To me, it feels like longing - for something that was, or that cannot be, or perhaps simply for peace with what is. There are some feelings that hurt to hold ([[PROJECTS-CREATIONS/POETRIES/Narrative/Like Any Other Day/1. Switching Town\|1. Switching Town]]) - not because they are painful, but simply because they are too large. This piece feels to me like the kind of love that makes you want to cry.
+
+>> I'm watching opportunities pass me by ([[PROJECTS-CREATIONS/POETRIES/Narrative/Like Any Other Day/4. For Granted\|4. For Granted]]), sort of like I'm watching other people live the life I wished I lived ([[PROJECTS-CREATIONS/POETRIES/Emo-Lyric/GROWING UP\|GROWING UP]]).
+
+>> It’s like I’m frozen on a train station ([[PROJECTS-CREATIONS/POETRIES/Narrative/Like Any Other Day/3. Sunshine In Winter\|3. Sunshine In Winter]]) and I just see everyone around me going ([[PROJECTS-CREATIONS/POETRIES/Narrative/Like Any Other Day/2. Ticket Gate\|2. Ticket Gate]]) and I can’t.
+
