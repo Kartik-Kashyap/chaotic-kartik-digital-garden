@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/her/my-gaze/","created":"2025-06-07T20:08:29.830+05:30","updated":"2025-06-08T17:25:06.585+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/her/my-gaze/","created":"2025-06-07T20:08:29.830+05:30","updated":"2025-06-08T17:27:10.507+05:30"}
 ---
 
 you’re smol
@@ -104,5 +104,12 @@ i could ever ask for.
 *music ref:* 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3q648KejBa6Hoam3fjhJCU?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+*inspiration:*
+- her
+- and this song
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0eCajpR75pDW0r64U6hP2x?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 *related:* [[PROJECTS-CREATIONS/POETRIES/HER/i dreamed\|i dreamed]]
