@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/her/my-gaze/","created":"2025-06-07T20:08:29.830+05:30","updated":"2025-06-08T16:39:01.853+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/her/my-gaze/","created":"2025-06-07T20:08:29.830+05:30","updated":"2025-06-08T17:25:06.585+05:30"}
 ---
 
 you’re smol
@@ -58,7 +58,7 @@ cheeks i tug, nose i trace
 until i slide on its curve
 to lips i’d die to lock mine with,
 and stop time. indefinitely.
-whisper my name with your voice when i am in your arms,
+whisper my name with your tongue when i am in your arms,
 and i’ll float above every cloud i’ve ever known.
 you push out the lips and pout 
 when angry, or that deep-thought frown, 
