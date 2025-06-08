@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/her/my-gaze/","created":"2025-06-07T20:08:29.830+05:30","updated":"2025-06-08T17:27:10.507+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/her/my-gaze/","created":"2025-06-07T20:08:29.830+05:30","updated":"2025-06-08T18:13:42.272+05:30"}
 ---
 
 you’re smol
@@ -33,7 +33,7 @@ are majestic
 even in sweat pants
 drool on your chin, sleepy lids,
 hair a frizzed-out crown,
-angles so weird, may only me allowed to view.
+angles so weird, may only i get to see.
 you menstruating, agitated, smelly?
 no worries
 your every scent is sweet and mine.
