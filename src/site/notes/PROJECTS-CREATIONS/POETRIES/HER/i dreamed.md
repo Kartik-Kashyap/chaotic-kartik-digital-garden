@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/her/i-dreamed/","created":"2025-05-31T19:50:02.136+05:30","updated":"2025-05-31T20:28:59.347+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/her/i-dreamed/","created":"2025-05-31T19:50:02.136+05:30","updated":"2025-06-08T16:40:29.330+05:30"}
 ---
 
 i have dreamed and i remember
@@ -57,6 +57,7 @@ but it stayed long after i withdrew
 - [[PROJECTS-CREATIONS/POETRIES/Narrative/Like Any Other Day/2. Ticket Gate\|2. Ticket Gate]]
 - [[PROJECTS-CREATIONS/POETRIES/Narrative/Like Any Other Day/3. Sunshine In Winter\|3. Sunshine In Winter]]
 - [[PROJECTS-CREATIONS/POETRIES/Narrative/Like Any Other Day/4. For Granted\|4. For Granted]]
+- [[PROJECTS-CREATIONS/POETRIES/HER/my gaze\|my gaze]]
 
 ---
 
