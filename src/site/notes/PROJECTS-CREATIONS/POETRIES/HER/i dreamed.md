@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/her/i-dreamed/","created":"2025-05-31T19:50:02.136+05:30","updated":"2025-06-08T16:40:29.330+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/her/i-dreamed/","created":"2025-05-31T19:50:02.136+05:30","updated":"2025-06-10T19:58:33.677+05:30"}
 ---
 
 i have dreamed and i remember
@@ -68,4 +68,22 @@ but it stayed long after i withdrew
 >> I'm watching opportunities pass me by ([[PROJECTS-CREATIONS/POETRIES/Narrative/Like Any Other Day/4. For Granted\|4. For Granted]]), sort of like I'm watching other people live the life I wished I lived ([[PROJECTS-CREATIONS/POETRIES/Emo-Lyric/GROWING UP\|GROWING UP]]).
 
 >> It’s like I’m frozen on a train station ([[PROJECTS-CREATIONS/POETRIES/Narrative/Like Any Other Day/3. Sunshine In Winter\|3. Sunshine In Winter]]) and I just see everyone around me going ([[PROJECTS-CREATIONS/POETRIES/Narrative/Like Any Other Day/2. Ticket Gate\|2. Ticket Gate]]) and I can’t.
+
+
+```
+@echo off
+
+:: Get current date and time for unique folder name
+set timestamp=%DATE:/=-%_%TIME::=-%
+set timestamp=%timestamp: =_%
+
+:: Set destination folder on HDD (e.g., H:\Backup_10-06-2025_12-30-00)
+set DEST=H:\Backup_%timestamp%
+mkdir "%DEST%"
+
+:: Now copy everything from C, D, E drives
+xcopy "C:\Users" "%DEST%\C_Users" /E /H /C /I /Y
+xcopy "D:\" "%DEST%\Drive_D" /E /H /C /I /Y
+xcopy "E:\" "%DEST%\Drive_E" /E /H /C /I /Y
+```
 
