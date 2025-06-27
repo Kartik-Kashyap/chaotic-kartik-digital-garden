@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/her/my-gaze/","created":"2025-06-07T20:08:29.830+05:30","updated":"2025-06-27T06:19:21.072+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/her/my-gaze/","created":"2025-06-07T20:08:29.830+05:30","updated":"2025-06-27T06:20:40.561+05:30"}
 ---
 
 you’re smol
@@ -98,6 +98,7 @@ the one who's ugly is me,
 and you’re the most beautiful thing,
 i could ever ask for.
 
+<br />
 
 ---
 # expansion
@@ -119,6 +120,7 @@ is perfection breathing.
 a poetry.
 not anatomy.
 
+<br />
 
 ==26/06/2025==
 
