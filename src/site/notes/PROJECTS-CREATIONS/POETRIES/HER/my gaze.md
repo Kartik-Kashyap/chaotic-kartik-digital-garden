@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/her/my-gaze/","created":"2025-06-07T20:08:29.830+05:30","updated":"2025-06-27T06:12:18.424+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/her/my-gaze/","created":"2025-06-07T20:08:29.830+05:30","updated":"2025-06-27T06:16:41.447+05:30"}
 ---
 
 you’re smol
@@ -100,15 +100,33 @@ i could ever ask for.
 
 
 ---
-
-### *expansion*
-==(because static things are boring and a living, breathing love letter is what i desire to create because real love evolves, deepens, and deserves something just as alive)==
-
-*20/06/2025*
+# expansion
+*(because static things are boring and a living, breathing love letter is what i desire to create because real love evolves, deepens, and deserves something just as alive)*
 
 
-*26/06/2025*
+==20/06/2025==
 
+you ask why i ask for more?
+those weird videos, and silly lore?
+because in my gaze,
+even the moon would beg for your flaws.
+but there are none.
+none that i can find,
+none that would matter.
+not when the very act of being you
+is perfection breathing.
+a poetry.
+not anatomy.
+
+
+==26/06/2025==
+
+i’ve told you before,
+i'll tell you some more,
+tattooing it into the stars for all,
+the one who's ugly is me,
+and you’re the most beautiful thing,
+i could ever ask for.
 
 
 ---
