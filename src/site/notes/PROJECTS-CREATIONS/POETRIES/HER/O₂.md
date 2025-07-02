@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/her/o/","created":"2025-07-01T18:58:58.831+05:30","updated":"2025-07-02T18:02:14.001+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/her/o/","created":"2025-07-01T18:58:58.831+05:30","updated":"2025-07-02T18:12:52.780+05:30"}
 ---
 
 i need to
@@ -67,30 +67,33 @@ they landed in the pit of my doubts
 and insecurities
 and self-hatred
 and existential crisis
-and suicidal tendencies
+and suicidal tendencies—
 and burned a bonfire there.
-all of them to ashes.
+all of them reduced to ashes.
 
 you made them kneel 
-and beg for mercy
-you didn't let me forgive
-handed me a gun
-guided me to shoot them
-but my hands trembled
-self-destructive side of me couldn't let me.
+and beg for mercy.
+you didn't let me forgive,
+instead handed me a gun
+guided me to shoot,
+but my hands trembled.
+self-destructive side of me 
+couldn't let me be free.
 but you took the charge,
 and killed all of them
 with a single bullet
-named "vaibhu".
+named "twinkle".
 
 you healed me.
 and i didn’t even know i was bleeding
 until you loved me clean.
 i thought something damaged 
 can never be repaired.
-but you did it.
-to me.
-now i know
+but you proved me wrong,
+and i couldn't be more happy.
+i yearned for someone to save me.
+you did.
+and now i know,
 i didn't need to push you away,
 and i didn't need to be fixed,
 before i deserved you.
@@ -160,7 +163,7 @@ until life looped us back.
 
 and this time, i got to talk to you.
 and then write for you.
-and then laugh.
+and then make you laugh.
 and then gift you.
 and then admire you.
 and then fight.
@@ -188,8 +191,9 @@ destiny,
 heaven.
 
 i want to be colonized by you.
-don't leave a single piece of my land.
+don't spare a single piece of my land.
 take over my body, brain, heart, chemicals.
+everything.
 
 i want to trust you blindly
 and devote myself to you entirely.
@@ -197,8 +201,8 @@ no questions
 no rational counters
 no doubts—
 because no one else
-ever called me poetry
-while i was still in drafts
+would ever call me poetry
+while i am still in drafts
 and no one,
 not a single soul,
 ever became my O₂
@@ -206,7 +210,9 @@ the way you did,
 being there in the air,
 in the breath,
 diffusing into every alveolus of my being,
-and stayed
+(now i ain't a waste of oxygen anymore
+as my oxygen is you, not the one they use),
+and you stayed
 because you knew 
 anoxia can be fatal,
 and you wouldn't let me die
@@ -216,6 +222,7 @@ before i even knew
 i was 
 suffocating—
 so allow me.
+please.
 will you?
 
 ---
@@ -224,5 +231,5 @@ will you?
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5w0Xpt2YHT2Y3z3e4UUJP7?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-related:
+*related:*
 [[PROJECTS-CREATIONS/POETRIES/HER/my gaze\|my gaze]]
