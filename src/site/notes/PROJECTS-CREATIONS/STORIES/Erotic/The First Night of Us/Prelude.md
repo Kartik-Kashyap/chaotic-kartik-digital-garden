@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/stories/erotic/the-first-night-of-us/prelude/","created":"2025-07-03T14:28:57.754+05:30","updated":"2025-07-03T18:26:53.185+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/stories/erotic/the-first-night-of-us/prelude/","created":"2025-07-03T14:28:57.754+05:30","updated":"2025-07-03T18:43:51.875+05:30"}
 ---
 
 We returned to the hotel room.
@@ -102,8 +102,9 @@ I was on top of her. Planking. She wasn't feeling my bodyweight but she had to s
 
 Then I let my kisses drift down to her neck.  
 Soft, damp kisses. The kind that stay.
-She signaled me to open my t-shirt. I did, with her help.
-She then caressed my back as I kept performing my kissing ritual.
+Neck was her weak spot, I knew.
+
+She signaled me to open my t-shirt. I did, with her help. Then I removed my lucky t-shirt from her, that got a chance to be wrapped around this goddess underneath me. She wasn't wearing anything beneath it. We both were upper body naked. I avoided eye contact with her breast because my heart couldn't handle it so I kept performing my kissing ritual as she caressed my back.
 
 Her breath hitched when I whispered something stupid, just to see her laugh in the middle of it. And she did, half-laugh, half-moan, like her body didn’t know which reaction to choose.
 
