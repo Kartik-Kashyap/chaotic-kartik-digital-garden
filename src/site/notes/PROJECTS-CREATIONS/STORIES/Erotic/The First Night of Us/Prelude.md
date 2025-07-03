@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/stories/erotic/the-first-night-of-us/prelude/","created":"2025-07-03T14:28:57.754+05:30","updated":"2025-07-03T18:59:14.850+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/stories/erotic/the-first-night-of-us/prelude/","created":"2025-07-03T14:28:57.754+05:30","updated":"2025-07-03T19:21:45.627+05:30"}
 ---
 
 We returned to the hotel room.
 Tired from all the travel and novelty and "today I learned".
 Today I came to visit her for the first time in Delhi. This was the only possibility of "us" and I couldn't miss it. And we both nerds didn't waste a single second to go to the nerdiest places there.
+
 We held each other's hands. Gave a peck here and there when we felt we had some privacy in overcrowded India. When we were in an almost empty cinema hall watching some stupid ass romantic film, our hands were interlocked throughout. She put her head on my shoulder during an intimate scene. I, in the heat of the moment, pulled her head towards me and we kissed. Our first kiss. We retracted quickly because of safety concern, there are camera everywhere and other people in the hall weren't couples but families.
+
 Anyways, I surely had a difficult time deciding what to focus on: Her or Delhi.
 
 We played dead on the bed for a minute.
