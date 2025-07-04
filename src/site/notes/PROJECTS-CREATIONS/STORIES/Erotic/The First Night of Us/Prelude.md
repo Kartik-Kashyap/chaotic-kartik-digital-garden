@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/stories/erotic/the-first-night-of-us/prelude/","created":"2025-07-03T14:28:57.754+05:30","updated":"2025-07-03T19:21:45.627+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/stories/erotic/the-first-night-of-us/prelude/","created":"2025-07-03T14:28:57.754+05:30","updated":"2025-07-04T12:15:07.640+05:30"}
 ---
 
 We returned to the hotel room.
@@ -35,7 +35,7 @@ The night of us.
 
 The scent of her in the room was a pheromonal warning that read: _you’re never walking out of this room the same again_.
 
-She was sitting on the edge of the bed, looking herself in the mirror, wearing a pink short, and MY t-shirt that for her was oversized, swallowing her petite frame like it had sworn loyalty to her softness. I get it, anyone including herself would get lost in her beauty. My breath caught in my throat when she looked up to me.
+She was sitting on the edge of the bed, looking herself in the mirror, wearing a pink short, and MY t-shirt that for her was oversized, swallowing her petite frame like it had sworn loyalty to her softness. I get it, anyone, including herself, would get lost in her beauty. My breath caught in my throat when she looked up to me.
 
 I smiled and asked her why my t-shirt. She said, "I was dying to feel you wrapped around me"
 
@@ -66,7 +66,7 @@ A slow, curious blink.
 Like she was reading me.
 Unwrapping me with her gaze.
 
-She pulled my t-shirt's sleeve over her palm, and said quietly, “You smell like... something I want to remember forever.” Her voice was sultry, and wet.
+She pulled my t-shirt's sleeve over her palm, and said quietly, “You smell like... something I want to remember forever.” Her voice was sultry, breathy, and wet.
 
 I blushed hard, my knees sinking onto the bed beside her.  
 "And you feel like... something I’d worship every day and still never know completely."
@@ -101,7 +101,9 @@ I made her lie down slowly so she doesn't hit her head on the hard edge of bed.
 I put her skull on the fluffy pillow.
 I was on top of her. Planking. She wasn't feeling my bodyweight but she had to suffer the wrath of the weight of my love.
 
-Then I let my kisses drift down to her neck.  
+Her neck is a vineyard and I wanted to get drunk there.
+So I did.
+I let my kisses drift down to her neck.  
 Soft, damp kisses. The kind that stay.
 Neck was her weak spot, I knew.
 
@@ -112,7 +114,7 @@ Her breath hitched when I whispered something stupid, just to see her laugh in t
 We then lay back, her one leg curled around mine, our bodies tangled like they were sketching their own position.
 
 I kissed her collarbone like it was sacred.  
-Let my fingers explore her ribcage, featherlight, making her shiver.  
+Let my fingers explore her ribcage, and waist making her shiver.  
 And then I slowly went down and placed a kiss on her soft breast.
 She breathed heavily. I stopped to see if she's comfortable. Her facial expression confirmed, she was.
 
