@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/stories/erotic/the-first-night-of-us/toc/","created":"2025-07-04T22:06:21.479+05:30","updated":"2025-07-05T11:16:53.637+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/stories/erotic/the-first-night-of-us/toc/","created":"2025-07-04T22:06:21.479+05:30","updated":"2025-07-05T11:17:07.290+05:30"}
 ---
 
 [[PROJECTS-CREATIONS/STORIES/Erotic/The First Night of Us/1. Prelude\|1. Prelude]]
@@ -17,4 +17,3 @@
 ---
 
 *aftermath:*
-she loved every bit of it
