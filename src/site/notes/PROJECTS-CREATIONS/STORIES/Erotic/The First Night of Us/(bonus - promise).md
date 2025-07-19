@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/stories/erotic/the-first-night-of-us/bonus-promise/","created":"2025-07-19T14:24:23.252+05:30","updated":"2025-07-19T15:32:03.297+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/stories/erotic/the-first-night-of-us/bonus-promise/","created":"2025-07-19T14:24:23.252+05:30","updated":"2025-07-19T15:32:54.733+05:30"}
 ---
 
 We may not get everything.  
@@ -28,8 +28,9 @@ A reminder: “We’re okay. We’re trying.”
 We’ll visit new cities, alone.  
 We’ll watch the same sunsets from different places.  
 We’ll share nerdy links.  
-We'll cry, a little. 
-And laugh a lot.
+We'll fight somedays.
+And cry, a little. 
+But love, and laugh a lot.
 
 Because love isn't always in being together.  
 It's in holding the same vision,  
