@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/stories/erotic/the-first-night-of-us/bonus-promise/","created":"2025-07-19T14:24:23.252+05:30","updated":"2025-07-19T15:28:26.318+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/stories/erotic/the-first-night-of-us/bonus-promise/","created":"2025-07-19T14:24:23.252+05:30","updated":"2025-07-19T15:32:03.297+05:30"}
 ---
 
 We may not get everything.  
@@ -34,7 +34,7 @@ And laugh a lot.
 Because love isn't always in being together.  
 It's in holding the same vision,  
 chasing the same sunrise,  
-failing, falling,  
+failing, falling, fighting, frustrated
 but never letting go.
 
 We’ll build a life that fits us.
