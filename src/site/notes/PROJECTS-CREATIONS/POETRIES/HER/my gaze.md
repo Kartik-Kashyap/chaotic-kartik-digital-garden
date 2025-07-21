@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects-creations/poetries/her/my-gaze/","created":"2025-06-07T20:08:29.830+05:30","updated":"2025-06-27T06:22:35.757+05:30"}
+{"dg-publish":true,"permalink":"/projects-creations/poetries/her/my-gaze/","created":"2025-06-07T20:08:29.830+05:30","updated":"2025-07-21T22:54:04.141+05:30"}
 ---
 
 you’re smol
@@ -102,6 +102,9 @@ i could ever ask for.
 ---
 # expansion
 *(because static things are boring and a living, breathing love letter is what i desire to create because real love evolves, deepens, and deserves something just as alive)*
+
+> [!Warning]
+> this is incomplete right now
 
 <br />
 
