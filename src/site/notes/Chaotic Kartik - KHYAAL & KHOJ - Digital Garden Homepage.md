@@ -1,6 +1,47 @@
 ---
-{"dg-publish":true,"permalink":"/chaotic-kartik-khyaal-and-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2025-05-31T20:03:12.995+05:30"}
+{"dg-publish":true,"permalink":"/chaotic-kartik-khyaal-and-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2026-07-04T16:09:03.371+05:30"}
 ---
+
+@echo on
+
+echo ===========================================
+echo      YOUTUBE BACKUP STARTING...
+echo ===========================================
+
+:: Prevent sleep and screen timeout
+powercfg -change -standby-timeout-ac 0
+powercfg -change -monitor-timeout-ac 0
+powercfg -change -disk-timeout-ac 0
+
+:: Create timestamp
+set timestamp=%DATE:/=-%_%TIME::=-%
+set timestamp=%timestamp: =_%
+
+:: Backup destination
+set DEST=D:\Backup_%timestamp%
+
+mkdir "%DEST%"
+
+echo.
+echo Copying F:\youtube
+echo Destination:
+echo %DEST%\youtube
+echo.
+
+xcopy "F:\youtube" "%DEST%\youtube" /E /H /C /I /Y /V
+
+echo.
+echo ===========================================
+echo         BACKUP COMPLETED!
+echo ===========================================
+echo.
+
+:: Restore normal power settings
+powercfg -change -standby-timeout-ac 15
+powercfg -change -monitor-timeout-ac 5
+powercfg -change -disk-timeout-ac 20
+
+pause
 
 # **WELCOME TO THE CHAOTIC GARDEN** 🌪️ 
 
@@ -15,7 +56,10 @@
 >[!summary]- Who And Why Am I?
 > For who part, I'll leave it for you to decide and form your own meta-perception of mine.
 > For why part, here's the answer:
-> - 
+> - sitting back, letting all play, observing, defamiliarizing and trying to make sense of our chaotic human existence
+> - mostly my khyaal (thoughts/observations) and khoj (findings/research) 
+> - 6K questions = kya (what), kyun (why), kaun (who), kab (when), kahan (where), kaise (how)
+> - kARTistik side = kahani, kavita, kala, kalam, karuna 
 
    
 > _“So many questions, so little time.”_
@@ -25,3 +69,51 @@
 > - [[core\|core]] *(my favorite entry point to ocean of threads)*
 > - [[1. Switching Town \| My first narrative poetry series that I wrote for my friend leaving the town]]
 > - [[Burned Against The Wind \| My debut romance short story]]
+
+
+___
+
+## 🌊 **Currently Navigating these Chaos:**
+
+_(Things in the making, thoughts forming, and ideas marinating)_ 
+
+🌀 **Projects Brewing** → [Link to active projects]  
+📝 **Raw Scripts & Concepts** → [Link]  
+🎭 **Stories Taking Shape** → [Link]  
+🧠 **Philosophical Rabbit Holes** → [Link]
+
+---
+
+## 📜 **Executed & Archived (But Not Forgotten)**
+
+(*will be updated with new info with time if i stumble across something worth adding*)
+
+🗂 **Past Scripts** → [Link]  
+📚 **Finished Essays & Findings** → [Link]  
+🎬 **Videos That Became Reality** → [Link]
+
+---
+
+## 🚀 **Future Plans & Experiments**
+
+_(What’s cooking but not quite ready to serve)_  
+🔮 **Upcoming Series Ideas** → [Link]  
+💭 **Concepts That Need More Chaos** → [Link]  
+🛠️ **Experimental Formats** → [Link]
+
+---
+
+## 🏴‍☠️ **Ideas That Sank Before Sailing**
+
+_(Not all ideas survive the storm. Here lie the fallen ones.)_  
+⚰️ **Scrapped Scripts & Concepts** → [Link]  
+🧐 **What Went Wrong? (Postmortem Notes)** → [Link]
+
+---
+
+## 🔥 **How to Explore?**
+
+🕸 **Follow the Links, Get Lost, Find Something New.**  
+🔗 **Every note connects to something—click around and see where the chaos takes you.**  
+💡 **Got thoughts? Share them [here](www.), challenge them, or just sit with them.**
+
