@@ -1,47 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/chaotic-kartik-khyaal-and-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2026-07-04T16:09:03.371+05:30"}
+{"dg-publish":true,"permalink":"/chaotic-kartik-khyaal-and-khoj-digital-garden-homepage/","tags":["gardenEntry"],"created":"2025-02-17T20:45:20.305+05:30","updated":"2026-07-04T20:18:11.645+05:30"}
 ---
-
-@echo on
-
-echo ===========================================
-echo      YOUTUBE BACKUP STARTING...
-echo ===========================================
-
-:: Prevent sleep and screen timeout
-powercfg -change -standby-timeout-ac 0
-powercfg -change -monitor-timeout-ac 0
-powercfg -change -disk-timeout-ac 0
-
-:: Create timestamp
-set timestamp=%DATE:/=-%_%TIME::=-%
-set timestamp=%timestamp: =_%
-
-:: Backup destination
-set DEST=D:\Backup_%timestamp%
-
-mkdir "%DEST%"
-
-echo.
-echo Copying F:\youtube
-echo Destination:
-echo %DEST%\youtube
-echo.
-
-xcopy "F:\youtube" "%DEST%\youtube" /E /H /C /I /Y /V
-
-echo.
-echo ===========================================
-echo         BACKUP COMPLETED!
-echo ===========================================
-echo.
-
-:: Restore normal power settings
-powercfg -change -standby-timeout-ac 15
-powercfg -change -monitor-timeout-ac 5
-powercfg -change -disk-timeout-ac 20
-
-pause
 
 # **WELCOME TO THE CHAOTIC GARDEN** 🌪️ 
 
